@@ -44,10 +44,6 @@
 
 								</section>
 
-								<footer class="article-footer">
-
-								</footer>
-
 							</article>
 
 							<?php endwhile; ?>
